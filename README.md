@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Protein-Infer 🧬
 
 **A Tool for Predicting Protein Subcellular Localization Using Protein Language Models.**
@@ -91,7 +90,3 @@ To retrain the model or see the evaluation, open and run the notebook in `notebo
 3.  **Open your browser** and go to `http://127.0.0.1:5000`.
 
 ---
-=======
-# Protein-Infer
-A tool for predicting protein function from sequence using Protein Language Models (PLM).
->>>>>>> 853dc0bb04cb54135ecf64cb014f6ba9a125026e
