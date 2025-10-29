@@ -12,8 +12,13 @@ Protein-Infer is a machine learning tool developed as a final year capstone proj
 
 - **Model:** Random Forest Classifier
 - **Feature Extractor:** ProtBERT
+<<<<<<< HEAD
 - **Final Accuracy:** 65%
 - **Key Finding:** The model performed best on distinct classes like 'Plastid' but occasionally confused 'Cytoplasm' and 'Nucleus'.
+=======
+- **Final Accuracy:** [Enter your final accuracy here, e.g., 75.34%]
+- **Key Finding:** [Enter a key finding, e.g., The model performed best on distinct classes like 'Plastid' but occasionally confused 'Cytoplasm' and 'Nucleus'.]
+>>>>>>> 1134c4c (Initial project setup with data, notebooks, and app)
 
 ## ✨ Features
 
@@ -89,4 +94,8 @@ To retrain the model or see the evaluation, open and run the notebook in `notebo
 
 3.  **Open your browser** and go to `http://127.0.0.1:5000`.
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 1134c4c (Initial project setup with data, notebooks, and app)

@@ -1,0 +1,6 @@
+# app/requirements.txt
+Flask
+torch
+transformers
+scikit-learn
+numpy
